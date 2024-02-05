@@ -40,3 +40,8 @@ npm start
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+## Features
+
+- View a list of menu items with images, descriptions, and prices.
+- Filter menu items by category for a focused view of the menu.
